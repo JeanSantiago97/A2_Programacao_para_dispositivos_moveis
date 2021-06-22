@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="tvtitulo">Amazing Base Calculator 3000</string>
+    <string name="hintvalordeent">Digite o Valor</string>
+    <string name="st_bt_cal">Calcular</string>
+
+    <string name="digitospossiveis">0123456789abcdefABCDEF</string>
+    <string name="resposta"></string>
+
+    <string-array name="bases">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string name="valerro">Valor inválido para esta base numérica</string>
+
+</resources>
